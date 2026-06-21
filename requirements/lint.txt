@@ -67,9 +67,9 @@ pycares==4.9.0
     # via aiodns
 pycparser==3.0
     # via cffi
-pydantic==2.11.7
+pydantic==2.13.4
     # via python-on-whales
-pydantic-core==2.33.2
+pydantic-core==2.46.4
     # via pydantic
 pygments==2.19.2
     # via
@@ -103,7 +103,7 @@ tomli==2.2.1
     #   slotscheck
 trustme==1.2.1
     # via -r requirements/lint.in
-typing-extensions==4.14.0
+typing-extensions==4.15.0
     # via
     #   exceptiongroup
     #   mypy
@@ -112,7 +112,7 @@ typing-extensions==4.14.0
     #   python-on-whales
     #   rich
     #   typing-inspection
-typing-inspection==0.4.1
+typing-inspection==0.4.2
     # via pydantic
 uvloop==0.21.0 ; platform_system != "Windows"
     # via -r requirements/lint.in
