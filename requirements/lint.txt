@@ -30,7 +30,7 @@ filelock==3.29.4
     # via virtualenv
 forbiddenfruit==0.1.4
     # via blockbuster
-freezegun==1.5.2
+freezegun==1.5.5
     # via -r requirements/lint.in
 identify==2.6.19
     # via pre-commit
