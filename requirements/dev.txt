@@ -91,7 +91,7 @@ idna==3.18
     #   requests
     #   trustme
     #   yarl
-imagesize==1.4.1
+imagesize==2.0.0
     # via sphinx
 incremental==24.7.2
     # via towncrier
