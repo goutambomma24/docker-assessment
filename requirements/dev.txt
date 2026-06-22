@@ -93,7 +93,7 @@ idna==3.18
     #   yarl
 imagesize==2.0.0
     # via sphinx
-incremental==24.7.2
+incremental==24.11.0
     # via towncrier
 iniconfig==2.1.0
     # via pytest
@@ -127,6 +127,7 @@ packaging==25.0
     # via
     #   build
     #   gunicorn
+    #   incremental
     #   pytest
     #   sphinx
     #   wheel
@@ -302,6 +303,4 @@ zstandard==0.25.0 ; platform_python_implementation == "CPython" and python_versi
 pip==26.1.2
     # via pip-tools
 setuptools==80.9.0
-    # via
-    #   incremental
-    #   pip-tools
+    # via pip-tools
