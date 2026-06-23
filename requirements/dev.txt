@@ -209,7 +209,7 @@ requests==2.34.2
     # via
     #   cherry-picker
     #   sphinx
-rich==14.0.0
+rich==15.0.0
     # via pytest-codspeed
 setuptools-git==1.2
     # via -r requirements/test.in
@@ -272,7 +272,6 @@ typing-extensions==4.15.0
     #   pydantic-core
     #   pyjwt
     #   python-on-whales
-    #   rich
     #   typing-inspection
 typing-inspection==0.4.2
     # via pydantic
