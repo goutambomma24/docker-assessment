@@ -67,5 +67,5 @@ towncrier==23.11.0
     # via
     #   -r requirements/doc.in
     #   sphinxcontrib-towncrier
-urllib3==2.5.0
+urllib3==2.7.0
     # via requests
