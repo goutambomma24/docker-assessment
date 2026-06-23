@@ -22,8 +22,6 @@ idna==3.18
     # via requests
 imagesize==2.0.0
     # via sphinx
-incremental==24.11.0
-    # via towncrier
 jinja2==3.1.6
     # via
     #   sphinx
@@ -31,9 +29,7 @@ jinja2==3.1.6
 markupsafe==3.0.3
     # via jinja2
 packaging==26.2
-    # via
-    #   incremental
-    #   sphinx
+    # via sphinx
 pyenchant==3.3.0
     # via sphinxcontrib-spelling
 pygments==2.20.0
@@ -67,10 +63,9 @@ sphinxcontrib-towncrier==0.5.0a0
     # via -r requirements/doc.in
 tomli==2.4.1
     # via
-    #   incremental
     #   sphinx
     #   towncrier
-towncrier==23.11.0
+towncrier==25.8.0
     # via
     #   -r requirements/doc.in
     #   sphinxcontrib-towncrier
