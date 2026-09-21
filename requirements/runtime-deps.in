@@ -8,6 +8,6 @@ Brotli; platform_python_implementation == 'CPython'
 brotlicffi; platform_python_implementation != 'CPython'
 frozenlist >= 1.8.0
 multidict >= 6.8.0, < 7.0
-propcache >= 0.5.2
+propcache >= 0.5.4
 yarl >= 1.25.1, < 2.0
 zstandard; platform_python_implementation == 'CPython' and python_version < "3.14"
