@@ -83,7 +83,7 @@ frozenlist==1.8.0
     # via
     #   -r requirements/runtime-deps.in
     #   aiosignal
-gidgethub==5.4.0
+gidgethub==6.0.0
     # via cherry-picker
 gunicorn==26.2.0
     # via -r requirements/base.in
@@ -272,6 +272,7 @@ typing-extensions==4.16.0
     #   aiosignal
     #   cryptography
     #   exceptiongroup
+    #   gidgethub
     #   multidict
     #   mypy
     #   pip-tools
