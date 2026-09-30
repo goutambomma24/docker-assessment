@@ -87,7 +87,7 @@ gidgethub==6.0.0
     # via cherry-picker
 gunicorn==26.2.0
     # via -r requirements/base.in
-identify==2.6.19
+identify==2.6.20
     # via pre-commit
 idna==3.20
     # via
