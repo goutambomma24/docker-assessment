@@ -165,7 +165,7 @@ pygments==2.21.0
     #   pytest
     #   rich
     #   sphinx
-pyjwt==2.15.0
+pyjwt==2.15.1
     # via
     #   gidgethub
     #   pyjwt
