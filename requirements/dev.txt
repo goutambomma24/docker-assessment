@@ -194,7 +194,7 @@ pytest-mock==3.17.0
     #   -r requirements/test.in
 pytest-xdist==3.8.0
     # via -r requirements/test.in
-python-dateutil==2.9.0.post0
+python-dateutil==3.0.0
     # via freezegun
 python-discovery==1.6.4
     # via virtualenv
@@ -276,6 +276,8 @@ typing-extensions==4.16.0
     #   virtualenv
 typing-inspection==0.4.4
     # via pydantic
+tzdata==2026.5
+    # via python-dateutil
 uritemplate==4.2.0
     # via gidgethub
 urllib3==2.8.0
