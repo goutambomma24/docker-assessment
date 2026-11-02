@@ -276,7 +276,7 @@ typing-extensions==4.16.0
     #   virtualenv
 typing-inspection==0.4.4
     # via pydantic
-tzdata==2026.5
+tzdata==2026.6
     # via python-dateutil
 uritemplate==4.2.0
     # via gidgethub
